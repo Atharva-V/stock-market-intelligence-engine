@@ -1,0 +1,208 @@
+{
+  "timestamp": "2025-11-21T13:44:59.470194",
+  "collection_summary": {
+    "total_tweets_collected": 613,
+    "tweets_after_processing": 496,
+    "unique_users": 278,
+    "keywords_searched": [
+      "#nifty50",
+      "#sensex",
+      "#intraday",
+      "#banknifty"
+    ]
+  },
+  "market_analysis": {
+    "overall_market": {
+      "total_signals": 584,
+      "market_direction": "STRONGLY BULLISH",
+      "buy_count": 30,
+      "sell_count": 7,
+      "hold_count": 547,
+      "neutral_count": 0,
+      "buy_percentage": 5.136986301369863,
+      "sell_percentage": 1.1986301369863013,
+      "avg_signal_strength": 0.031180763297137842,
+      "avg_confidence": 0.351358923284223,
+      "avg_sentiment": 0.008991935483870965
+    },
+    "nifty50": {
+      "signal": "BUY",
+      "sentiment": 0.009032707028531664,
+      "buy_signals": 48,
+      "sell_signals": 18,
+      "hold_signals": 518,
+      "bullish_count": 48,
+      "bearish_count": 18,
+      "conviction": "MEDIUM"
+    },
+    "sensex": {
+      "signal": "BUY",
+      "sentiment": 0.00774049217002237,
+      "buy_signals": 48,
+      "sell_signals": 18,
+      "hold_signals": 518,
+      "bullish_count": 48,
+      "bearish_count": 18,
+      "conviction": "MEDIUM"
+    },
+    "banknifty": {
+      "signal": "BUY",
+      "sentiment": 0.011220657276995305,
+      "buy_signals": 48,
+      "sell_signals": 18,
+      "hold_signals": 518,
+      "bullish_count": 48,
+      "bearish_count": 18,
+      "conviction": "MEDIUM"
+    }
+  },
+  "top_signals": [
+    {
+      "rank": 1,
+      "signal_type": "BUY",
+      "strength": 0.2638973483684207,
+      "confidence": 0.4686666666666666,
+      "content": "Strong Weekly Breakout in #HDFCBank Now its gearing up for a massive 5 month breakout Bullish Chart ",
+      "sentiment": 0.5933333333333333,
+      "engagement": 0,
+      "timestamp": "2025-11-21T06:27:15.000Z"
+    },
+    {
+      "rank": 2,
+      "signal_type": "SELL",
+      "strength": 0.19290217214457314,
+      "confidence": 0.4073333333333333,
+      "content": "#Nifty intraday support at 25040-25060, after breakdown I'll sell more #Nifty50 #OptionsTrading",
+      "sentiment": -0.2866666666666667,
+      "engagement": 0,
+      "timestamp": "2025-11-21T03:50:13.000Z"
+    },
+    {
+      "rank": 3,
+      "signal_type": "BUY",
+      "strength": 0.17092923071628724,
+      "confidence": 0.3902564102564102,
+      "content": "nifty try to cross day low from bottom means bullish crossing and 20-50 ema crossover also in 1 min ",
+      "sentiment": 0.16666666666666666,
+      "engagement": 1,
+      "timestamp": "2025-11-21T05:31:45.000Z"
+    },
+    {
+      "rank": 4,
+      "signal_type": "BUY",
+      "strength": 0.17092923029576626,
+      "confidence": 0.3902564102564102,
+      "content": "Nifty opened gapdown,yet i am bullish on nifty this week...today i guess nifty will end in green and",
+      "sentiment": 0.16666666666666666,
+      "engagement": 1,
+      "timestamp": "2025-11-21T06:39:41.000Z"
+    },
+    {
+      "rank": 5,
+      "signal_type": "SELL",
+      "strength": 0.16574637604818485,
+      "confidence": 0.3974358974358974,
+      "content": "26050 support delivered. Now 26131 = solid support... and yes, bias still UP. The crowd kept dreamin",
+      "sentiment": -0.13333333333333333,
+      "engagement": 3,
+      "timestamp": "2025-11-21T07:11:28.000Z"
+    },
+    {
+      "rank": 6,
+      "signal_type": "BUY",
+      "strength": 0.16209161685661785,
+      "confidence": 0.5646153846153846,
+      "content": "VIX jumping 13% shows increasing volatility, but this doesnt point to a correction, it actually hint",
+      "sentiment": 0.0,
+      "engagement": 31,
+      "timestamp": "2025-11-21T05:38:18.000Z"
+    },
+    {
+      "rank": 7,
+      "signal_type": "BUY",
+      "strength": 0.15994590575080628,
+      "confidence": 0.37666666666666665,
+      "content": "Buy THYROCARE CMP: 1580 TGT: 1610- 1640-1700 SL: 1540 Holding Period 2-4 days Note: Triangle Pattern",
+      "sentiment": 0.13333333333333333,
+      "engagement": 0,
+      "timestamp": "2025-11-21T04:19:15.000Z"
+    },
+    {
+      "rank": 8,
+      "signal_type": "BUY",
+      "strength": 0.1589200687522263,
+      "confidence": 0.36491228070175435,
+      "content": "Nifty opened higher with buying demand, boosting bullish sentiment - @ICICI_Direct investmentguruind",
+      "sentiment": 0.16666666666666666,
+      "engagement": 0,
+      "timestamp": "2025-11-21T05:59:33.000Z"
+    },
+    {
+      "rank": 9,
+      "signal_type": "BUY",
+      "strength": 0.1556516805861148,
+      "confidence": 0.3574074074074074,
+      "content": "buying the dips . NIfty will all time high . till it reaches 26800 its bullish . #nifty50 #niftyopti",
+      "sentiment": 0.16666666666666666,
+      "engagement": 0,
+      "timestamp": "2025-11-21T04:24:42.000Z"
+    },
+    {
+      "rank": 10,
+      "signal_type": "SELL",
+      "strength": 0.15509939484860416,
+      "confidence": 0.3275087719298245,
+      "content": "PNB Update: Trend remains decisively bearish with consistent lower highs/lows. Weak demand on reboun",
+      "sentiment": -0.2866666666666667,
+      "engagement": 0,
+      "timestamp": "2025-11-21T04:33:54.000Z"
+    }
+  ],
+  "data_files": {
+    "parquet": "data\\processed\\market_data.parquet",
+    "csv": "data\\processed\\market_data.csv"
+  },
+  "visualizations": [
+    "output\\visualizations\\signal_distribution.png",
+    "output\\visualizations\\engagement_analysis.png",
+    "output\\visualizations\\sentiment_analysis.png",
+    "output\\visualizations\\temporal_analysis.png",
+    "output\\visualizations\\hashtag_frequency.png",
+    "output\\visualizations\\summary_report.png"
+  ],
+  "statistics": {
+    "engagement_stats": {
+      "avg_total_engagement": 1.3689516129032258,
+      "max_total_engagement": 65,
+      "avg_engagement_score": 0.4303912210459951
+    },
+    "signal_stats": {
+      "avg_buy_mentions": 0.26814516129032256,
+      "avg_sell_mentions": 0.21774193548387097,
+      "avg_bullish_mentions": 0.13709677419354838,
+      "avg_bearish_mentions": 0.1028225806451613
+    },
+    "top_hashtags": {
+      "Nifty50": 286,
+      "Nifty": 196,
+      "Sensex": 183,
+      "StockMarket": 138,
+      "nifty": 85,
+      "sensex": 81,
+      "banknifty": 63,
+      "optionbuying": 57,
+      "StockMarketIndia": 56,
+      "BankNifty": 53,
+      "OptionsTrading": 46,
+      "StocksToWatch": 41,
+      "StocksToBuy": 35,
+      "NSE": 28,
+      "Optionselling": 27,
+      "BSE": 25,
+      "MarketOutlook": 25,
+      "Investmentguruindia": 24,
+      "NIFTY": 23,
+      "nifty50": 23
+    }
+  }
+}

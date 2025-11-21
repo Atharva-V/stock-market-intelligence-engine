@@ -1,0 +1,41 @@
+{
+  "total_tweets": 496,
+  "unique_users": 278,
+  "date_range": {
+    "start": "2025-11-20T17:15:52.000Z",
+    "end": "2025-11-21T08:08:27.000Z"
+  },
+  "engagement_stats": {
+    "avg_total_engagement": 1.3689516129032258,
+    "max_total_engagement": 65.0,
+    "avg_engagement_score": 0.4303912210459951
+  },
+  "signal_stats": {
+    "avg_buy_mentions": 0.26814516129032256,
+    "avg_sell_mentions": 0.21774193548387097,
+    "avg_bullish_mentions": 0.13709677419354838,
+    "avg_bearish_mentions": 0.1028225806451613
+  },
+  "hashtags_frequency": {
+    "Nifty50": 286,
+    "Nifty": 196,
+    "Sensex": 183,
+    "StockMarket": 138,
+    "nifty": 85,
+    "sensex": 81,
+    "banknifty": 63,
+    "optionbuying": 57,
+    "StockMarketIndia": 56,
+    "BankNifty": 53,
+    "OptionsTrading": 46,
+    "StocksToWatch": 41,
+    "StocksToBuy": 35,
+    "NSE": 28,
+    "Optionselling": 27,
+    "BSE": 25,
+    "MarketOutlook": 25,
+    "Investmentguruindia": 24,
+    "NIFTY": 23,
+    "nifty50": 23
+  }
+}

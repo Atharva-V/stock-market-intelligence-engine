@@ -33,13 +33,6 @@ build/
 *~
 .DS_Store
 
-# Data & Output
-data/raw/*
-data/processed/*
-output/*.parquet
-output/*.csv
-output/*.json
-output/visualizations/*
 
 # Logs
 logs/*.log

@@ -1,0 +1,196 @@
+{
+  "timestamp": "2025-11-21T11:43:36.400083",
+  "data_summary": {
+    "total_records": 35,
+    "columns": [
+      "username",
+      "timestamp",
+      "original_content",
+      "cleaned_content",
+      "likes",
+      "retweets",
+      "replies",
+      "total_engagement",
+      "engagement_score",
+      "mentions",
+      "hashtags",
+      "url",
+      "mentions_buy_terms",
+      "mentions_sell_terms",
+      "mentions_bullish_terms",
+      "mentions_bearish_terms",
+      "sentiment_indicator",
+      "sentiment_score",
+      "nifty50_sentiment",
+      "sensex_sentiment",
+      "banknifty_sentiment",
+      "text_length",
+      "word_count",
+      "sentence_count",
+      "avg_word_length",
+      "unique_word_ratio",
+      "punctuation_count",
+      "composite_signal",
+      "signal_confidence",
+      "signal_type",
+      "signal_strength",
+      "nifty50_signal",
+      "sensex_signal",
+      "banknifty_signal"
+    ]
+  },
+  "market_analysis": {
+    "overall_market": {
+      "total_signals": 35,
+      "market_direction": "STRONGLY BULLISH",
+      "buy_count": 3,
+      "sell_count": 0,
+      "hold_count": 32,
+      "neutral_count": 0,
+      "buy_percentage": 8.571428571428571,
+      "sell_percentage": 0.0,
+      "avg_signal_strength": 0.05754625960633463,
+      "avg_confidence": 0.44920070832152664,
+      "avg_sentiment": 0.01961904761904762
+    },
+    "nifty50": {
+      "signal": "BUY",
+      "sentiment": 0.01961904761904762,
+      "buy_signals": 5,
+      "sell_signals": 0,
+      "hold_signals": 30,
+      "bullish_count": 5,
+      "bearish_count": 0,
+      "conviction": "MEDIUM"
+    },
+    "sensex": {
+      "signal": "BUY",
+      "sentiment": 0.0196969696969697,
+      "buy_signals": 5,
+      "sell_signals": 0,
+      "hold_signals": 30,
+      "bullish_count": 5,
+      "bearish_count": 0,
+      "conviction": "MEDIUM"
+    },
+    "banknifty": {
+      "signal": "BUY",
+      "sentiment": 0.02912280701754386,
+      "buy_signals": 5,
+      "sell_signals": 0,
+      "hold_signals": 30,
+      "bullish_count": 5,
+      "bearish_count": 0,
+      "conviction": "MEDIUM"
+    }
+  },
+  "top_signals": [
+    {
+      "rank": 1,
+      "signal_type": "BUY",
+      "strength": 0.3268373941551257,
+      "confidence": 0.7696899224806202,
+      "content": "To all the traders posting now why market came down and yest was best time to buy put. It is always ",
+      "sentiment": 0.13333333333333333,
+      "engagement": 1,
+      "timestamp": "2025-11-21T06:00:06.000Z"
+    },
+    {
+      "rank": 2,
+      "signal_type": "BUY",
+      "strength": 0.2947879853012093,
+      "confidence": 0.7758620689655172,
+      "content": "TARGET DONE - #NIFTY 25 Nov 26000 Call MADE HIGH 185 +++ BOOK 185 FIRDT TGT TRAIL SL COST WAIT FINAL",
+      "sentiment": 0.0,
+      "engagement": 1,
+      "timestamp": "2025-11-21T05:48:31.000Z"
+    },
+    {
+      "rank": 3,
+      "signal_type": "BUY",
+      "strength": 0.16694247606904541,
+      "confidence": 0.3833333333333333,
+      "content": "Nifty opened higher with buying demand, boosting bullish sentiment - @ICICI_Direct investmentguruind",
+      "sentiment": 0.16666666666666666,
+      "engagement": 0,
+      "timestamp": "2025-11-21T05:59:33.000Z"
+    },
+    {
+      "rank": 4,
+      "signal_type": "HOLD",
+      "strength": 0.15790025464225446,
+      "confidence": 0.8,
+      "content": "Sensex Today | Top Nifty 50 Movers So Far #Sensex #Nifty50 #MarketUpdates #BTMarkets",
+      "sentiment": 0.0,
+      "engagement": 1,
+      "timestamp": "2025-11-21T05:51:14.000Z"
+    },
+    {
+      "rank": 5,
+      "signal_type": "HOLD",
+      "strength": 0.15344339261606177,
+      "confidence": 0.7774193548387096,
+      "content": "MARKET MIND PRO -DAY TRADING NIFTY AND BANK NIFTY ANALYSIS. #Nifty #BankNifty #Sensex #StockMarket #",
+      "sentiment": 0.0,
+      "engagement": 1,
+      "timestamp": "2025-11-21T05:34:55.000Z"
+    },
+    {
+      "rank": 6,
+      "signal_type": "HOLD",
+      "strength": 0.1525863037648709,
+      "confidence": 0.7730769230769231,
+      "content": "Live Market Update at 11:20 IST Nifty: 26,103.2  -0.34% Sensex: 85,341.25  -0.34% Top Gainer: Billio",
+      "sentiment": 0.0,
+      "engagement": 1,
+      "timestamp": "2025-11-21T05:50:00.000Z"
+    },
+    {
+      "rank": 7,
+      "signal_type": "HOLD",
+      "strength": 0.1453400071138933,
+      "confidence": 0.7363636363636363,
+      "content": "#nifty reversal ho sakta hai ? Kya lagta hai #nifty #banknifty",
+      "sentiment": 0.0,
+      "engagement": 1,
+      "timestamp": "2025-11-21T05:37:31.000Z"
+    },
+    {
+      "rank": 8,
+      "signal_type": "HOLD",
+      "strength": 0.0934319692093014,
+      "confidence": 0.37666666666666665,
+      "content": "Sensex futures buy @85440 /50 trgt 85730 let's se #Nifty #Reliance #banknifty",
+      "sentiment": 0.13333333333333333,
+      "engagement": 0,
+      "timestamp": "2025-11-21T05:58:35.000Z"
+    },
+    {
+      "rank": 9,
+      "signal_type": "HOLD",
+      "strength": 0.0934319692093014,
+      "confidence": 0.37666666666666665,
+      "content": "#nifty waiting for buy #banknifty if cross 59150 spot ..",
+      "sentiment": 0.13333333333333333,
+      "engagement": 0,
+      "timestamp": "2025-11-21T05:47:53.000Z"
+    },
+    {
+      "rank": 10,
+      "signal_type": "HOLD",
+      "strength": 0.06908136140598632,
+      "confidence": 0.35,
+      "content": "Sensex and Nifty Bulls Roar Back: 5 Reasons Global Brokerages Are Betting Big on India Again nextipo",
+      "sentiment": 0.0,
+      "engagement": 0,
+      "timestamp": "2025-11-21T05:45:01.000Z"
+    }
+  ],
+  "visualizations": [
+    "output\\visualizations\\signal_distribution.png",
+    "output\\visualizations\\engagement_analysis.png",
+    "output\\visualizations\\sentiment_analysis.png",
+    "output\\visualizations\\temporal_analysis.png",
+    "output\\visualizations\\hashtag_frequency.png"
+  ]
+}
