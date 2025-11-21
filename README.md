@@ -337,26 +337,15 @@ hash = (content, username)  # Near-duplicate detection
 ### 3. Signal Generation (signal_generator.py)
 
 **Sentiment Analysis:**
-- 28 positive keywords with weights (-2.0 to 2.0)
-- 28 negative keywords with weights
-- Normalized sentiment score: tanh(score/10) → [-1, 1]
+## 📊 Market Analysis Module
+This module transforms unstructured financial text—such as tweets, news, and market commentary—into quantitative trading signals.  
+It includes:
+- FinBERT-powered sentiment analysis with fallback lexicon mode  
+- Text feature extraction (TF-IDF, statistical features)  
+- Multi-factor signal generation (sentiment, engagement, bullish/bearish terms)  
+- Index-specific signals for Nifty50, Sensex, and BankNifty  
+- Aggregation utilities and insight generation for actionable market intelligence  
 
-**Composite Signal:**
-```
-signal = 0.3×sentiment + 0.2×engagement + 0.25×buy_sell_diff + 0.25×bullish_bearish_diff
-signal = tanh(signal) → normalized to [-1, 1]
-```
-
-**Signal Types:**
-- BUY: signal > 0.3 AND confidence > threshold
-- SELL: signal < -0.3 AND confidence > threshold
-- HOLD: -0.3 ≤ signal ≤ 0.3
-- NEUTRAL: confidence < threshold
-
-**Confidence Calculation:**
-```
-confidence = 0.5×(engagement/max) + 0.3×unique_word_ratio + 0.2×mention_density
-```
 
 ### 4. Visualization (visualization.py)
 
@@ -476,6 +465,12 @@ Solution:
 ---
 
 ## 📈 Example Output Metrics
+![Visualization 1](./output/visualizations/engagement_analysis.png)
+![Visualization 2](./output/visualizations/hashtag_frequency.png)
+![Visualization 3](./output/visualizations/sentiment_analysis.png)
+![Visualization 4](./output/visualizations/signal_distribution.png)
+![Visualization 5](./output/visualizations/summary_report.png)
+![Visualization 6](./output/visualizations/temporal_analysis.png)
 
 ```
 Market Intelligence System - Execution Summary
