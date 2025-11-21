@@ -343,7 +343,6 @@ It includes:
 - FinBERT-powered sentiment analysis with fallback lexicon mode  
 - Text feature extraction (TF-IDF, statistical features)  
 - Multi-factor signal generation (sentiment, engagement, bullish/bearish terms)  
-- Index-specific signals for Nifty50, Sensex, and BankNifty  
 - Aggregation utilities and insight generation for actionable market intelligence  
 
 
