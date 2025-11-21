@@ -1,0 +1,55 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data & Output
+data/raw/*
+data/processed/*
+output/*.parquet
+output/*.csv
+output/*.json
+output/visualizations/*
+
+# Logs
+logs/*.log
+*.log
+
+# Environment
+.env
+.env.local
+
+# Temporary
+*.tmp
+*.temp
+.cache/
